@@ -1,0 +1,2 @@
+Après quelques recherches sur notre amis commun Google, j'ai pu trouver que l'adresse IP de mon serveur DNS est stocké dans le path suivant :
+/etc/hosts
